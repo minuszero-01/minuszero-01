@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Kiran Hande</h1>
-<h3 align="center">A Web Developer from India</h3>
+<h3 align="center">A Human from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minuszero-01&label=Profile%20views&color=0e75b6&style=flat" alt="minuszero-01" /> </p>
 
